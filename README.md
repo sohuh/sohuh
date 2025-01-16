@@ -1,4 +1,4 @@
-Hey, I am a computer science student and I have a passion for front-end development and art, I find a lot of fun in creating interesting designs for websites along with well-functioning components that have the user's best interest in mind. Furthermore, I also like to play video games in the past time my favorite genre of games is MOBAS, currently, my favorite game is Deadlock and I also really enjoy playing Overwatch I am an ex-grandmaster Winston player.  
+Hey, I am a computer science student and I have a passion for front-end development and art, I find a lot of fun in creating interesting designs for websites along with well-functioning components that have the user's best interest in mind. Furthermore, I also like to play video games in the past time my favorite genre of games is MOBAS.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohaib.rehhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohaib-rehman-470714300/) 
